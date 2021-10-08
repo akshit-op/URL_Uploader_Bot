@@ -4,11 +4,11 @@
 '''Bot Messages defined'''
 
 
-common_text = "\n\n<u>If you are facing any problem, so report at @AJPyroVerseGroup</u>"
+common_text = "\n\n<u>If you are facing any problem, so report at @Family_bites.</u>"
 
 help_msg = f"<i>To use me, Just Send me any direct downloading link, and I will send you the file as telegram file.</i>{common_text}"
 
-start_msg = f"<b>Hi, I am URL_UploaderBot Created by @Akshit_Sinha and My Developer is @Akshit_sinba.</b>\n{help_msg}"
+start_msg = f"<b>Hi, I am URL_UploaderBot Created by @Akshit_Sinha and My Developer is @Akshit_sinha.</b>\n{help_msg}"
 
 task_ongoing = "<u>One Task is already going on, So Please Try Again Later.</u>"
 
